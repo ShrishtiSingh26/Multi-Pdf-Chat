@@ -6,6 +6,7 @@ A Retrieval-Augmented Generation (RAG) application that enables users to upload 
 
 ## Features
 
+- Runs Locally and Offline
 - Upload and process multiple PDF documents
 - Semantic search using vector embeddings (FAISS)
 - Conversational question-answering with memory
