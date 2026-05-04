@@ -15,6 +15,8 @@ A Retrieval-Augmented Generation (RAG) application that enables users to upload 
 - Real-time interaction via Streamlit interface
 
 ---
+## Demo Video
+https://github.com/user-attachments/assets/fc3b6153-cb93-4567-adb3-d36cf4f73c02
 
 ## System Architecture
 
@@ -94,4 +96,8 @@ streamlit run app.py
 - Improve grounding to reduce hallucinations
 - Enable deployment on cloud platforms (AWS, Streamlit Cloud)
 - Add source citations in generated responses
+
+
+
+
 
